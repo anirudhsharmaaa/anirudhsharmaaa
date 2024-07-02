@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)
 <h1 align="center">Hi 👋, I'm Anirudh Sharma</h1>
 <h3 align="center">A passionate full stack developer(MERN Stack)</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhsharmaaa&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhsharmaaa" /> </p>
 
