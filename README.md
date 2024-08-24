@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Anirudh Sharma</h1>
 <h3 align="center">A passionate full stack developer(MERN Stack)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
